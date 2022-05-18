@@ -1,10 +1,10 @@
 import { Options } from 'sequelize'
 
 const dbConfig: Options = {
-  username: 'lzs',
-  password: 'lzs20000313.',
-  database: 'tv',
-  host: '1.14.74.191',
+  username: '',
+  password: '',
+  database: '',
+  host: '',
   dialect: 'mysql',
 }
 export { dbConfig }

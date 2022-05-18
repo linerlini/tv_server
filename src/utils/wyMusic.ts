@@ -211,5 +211,6 @@ export class WYMusic {
   }
 }
 
-const wyMusic = new WYMusic('http://1.14.74.191:3000', '13647613586', 'lkk200033.')
+// 网易账号
+const wyMusic = new WYMusic()
 export { wyMusic }
